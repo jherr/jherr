@@ -1,4 +1,12 @@
-### Hi there 👋
+### The Blue Collar Coder 👋
+
+This is the Github repository for code on the [Blue Collar Coder YouTube channel](https://www.youtube.com/channel/UC6vRUjYqDuoUsYsku86Lrsw). 
+
+[![Blue Collar Coder Introduction](http://img.youtube.com/vi/vrZpGsL1-Ws/0.jpg)](https://www.youtube.com/watch?v=vrZpGsL1-Ws "Blue Collar Coder Introduction")
+
+I've also got a recent book on [Practical Module Federation](https://github.com/module-federation/practical-module-federation) that covers this exciting new way to live share code between Javascript applications both on both the backend and the frontend.
+
+You can reach me directly on with [@jherr on Twitter](https://twitter.com/jherr) or on [LinkedIn](https://www.linkedin.com/in/jherr/), or via email at jherr at pobox dot com.
 
 <!--
 **jherr/jherr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
