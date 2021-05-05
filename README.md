@@ -8,4 +8,4 @@ You can reach me directly on with [@jherr on Twitter](https://twitter.com/jherr)
 
 Check out our [Discord server](https://discord.gg/RQrAKPrq) where you can have a chat with us, ask questions, and recommend video topics.
 
-https://github-readme-stats.vercel.app/api?username=jherr
+[![Jack's github stats](https://github-readme-stats.vercel.app/api?username=jherr)](https://github.com/jherr)
