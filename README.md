@@ -7,3 +7,5 @@ This is the Github repository for code on the [Blue Collar Coder YouTube channel
 You can reach me directly on with [@jherr on Twitter](https://twitter.com/jherr) or on [LinkedIn](https://www.linkedin.com/in/jherr/), or via email at jherr at pobox dot com.
 
 Check out our [Discord server](https://discord.gg/RQrAKPrq) where you can have a chat with us, ask questions, and recommend video topics.
+
+![GitHub Ranking](https://github-readme-stats.vercel.app/api?username=jherr&show_icons=true)
