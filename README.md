@@ -1,6 +1,6 @@
 ### The Blue Collar Coder 👋
 
-This is the Github repository for code on the [Blue Collar Coder YouTube channel](https://www.youtube.com/channel/UC6vRUjYqDuoUsYsku86Lrsw). 
+This is the GitHub repository for code on the [Blue Collar Coder YouTube channel](https://www.youtube.com/channel/UC6vRUjYqDuoUsYsku86Lrsw). 
 
 [![Blue Collar Coder Introduction](http://img.youtube.com/vi/vrZpGsL1-Ws/maxresdefault.jpg)](https://www.youtube.com/watch?v=vrZpGsL1-Ws "Blue Collar Coder Introduction")
 
